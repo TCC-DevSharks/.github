@@ -2,7 +2,7 @@
 
 
 <div>
-   <img src="./img/logo_tailwind.png" align="left" width="40" align="center"/>
+   <img src="./img/LOGO.PNG" align="left" width="40" align="center"/>
    <h1>COLABORADORES</h1>   
 </div>
 
